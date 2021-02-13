@@ -1,0 +1,17 @@
+pong med två spelare
+paddlar som inte roterar
+bara keyboard controls
+en typ av breakoutbricka som bara dyker upp
+en powerup som gör spelarens paddel längre
+poängutskrift i skärmens övre del
+
+deluxe:
++roterande paddles
++startmeny, ingame-meny
++paus/återupptagande av spelomgång
++fler typer av brickor (olika hårda etc)
++fler typer av powerup
++fler kontrollsätt
++kontrollinställningar
+
+då har vi nått deluxe alltså!

@@ -1,0 +1,32 @@
+Crippa:
+
+Hmm. Ja, det var lite småsvårt på tangentbordet. Just med att slå paddeln hela vägen fram
+Det hade kanske varit nice om man slog hela vägen fram automatiskt när man tryckte upp/ner
+jo det var min andra feedback nu. Jag kollade inte på menyalternativen iofs. men visa vilka knappar som gör vad.
+
+
+Guy@KTH 1
+
+Konstigt när man ställer in gamepaden och man måste röra analogstickorna 2 gånger för att det ska gå in, sen helt plötsligt behöver man inte göra det med knapparna
+Om man väljer keyboard så borde man få se vilka knappar som gör vad.
+
+Guy@KTH 2
+
+Hur länge kör man?
+Slutar spelet aldrig?
+Konstigt när man väljer kontroll, cpu1 och cpu2. Vad är skillnaden?
+
+Ludde
+
+Jag förväntade att man skulle få se vilka knappar som gjorde vad i controller setup men istället så råkade jag ställa om hela keyboardet fel.
+Skithäftigt med ai, även fast den gör självmål ganska ofta.
+Varför är quick spin up ok? alltså i menyn. Det står ingenstans.
+
+Annika
+
+Kul spel men väldigt svårt. 
+Jag fattar ingenting av controllersetup.
+Bra att man kunde ta bort bakgrunden. 
+Borde finnas flera svårighetsgrader på datorn.
+
+

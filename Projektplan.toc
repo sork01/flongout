@@ -1,0 +1,68 @@
+\select@language {swedish}
+\contentsline {section}{\numberline {1}Programbeskrivning A}{1}
+\contentsline {section}{\numberline {2}Programbeskrivning B}{2}
+\contentsline {section}{\numberline {3}Programbeskrivning C}{3}
+\contentsline {section}{\numberline {4}Anv\IeC {\"a}ndarbeskrivning A}{4}
+\contentsline {section}{\numberline {5}Anv\IeC {\"a}ndarbeskrivning B}{4}
+\contentsline {section}{\numberline {6}Anv\IeC {\"a}ndarbeskrivning C}{4}
+\contentsline {section}{\numberline {7}Anv\IeC {\"a}ndarscenarier A}{5}
+\contentsline {subsection}{\numberline {7.1}Scenario \#1 A}{5}
+\contentsline {subsection}{\numberline {7.2}Scenario \#2 A}{5}
+\contentsline {section}{\numberline {8}Anv\IeC {\"a}ndarscenarier B}{6}
+\contentsline {subsection}{\numberline {8.1}Scenario \#1 B}{6}
+\contentsline {subsection}{\numberline {8.2}Scenario \#2 B}{6}
+\contentsline {section}{\numberline {9}Anv\IeC {\"a}ndarscenarier C}{7}
+\contentsline {section}{\numberline {10}Testplan A}{7}
+\contentsline {section}{\numberline {11}Testplan B}{8}
+\contentsline {section}{\numberline {12}Testplan C}{8}
+\contentsline {subsection}{\numberline {12.1}Feedback fr\IeC {\r a}n anv\IeC {\"a}ndartester}{8}
+\contentsline {subsection}{\numberline {12.2}F\IeC {\"o}ljder av anv\IeC {\"a}ndartester}{9}
+\contentsline {section}{\numberline {13}Programdesign A}{9}
+\contentsline {subsection}{\numberline {13.1}Ramverk}{9}
+\contentsline {subsection}{\numberline {13.2}Centrala klasser A}{10}
+\contentsline {subsubsection}{\numberline {13.2.1}\texttt {Main} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.2}\texttt {Scene} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.3}\texttt {MainMenu implements Scene} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.4}\texttt {ConfigurationScreen implements Scene} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.5}\texttt {Game implements Scene} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.6}\texttt {InGameMenu implements Scene} A}{10}
+\contentsline {subsubsection}{\numberline {13.2.7}\texttt {Controls} A}{11}
+\contentsline {subsubsection}{\numberline {13.2.8}\texttt {Physics} A}{11}
+\contentsline {subsubsection}{\numberline {13.2.9}\texttt {Brick} A}{11}
+\contentsline {subsubsection}{\numberline {13.2.10}\texttt {Paddle} A}{11}
+\contentsline {subsubsection}{\numberline {13.2.11}\texttt {Ball} A}{12}
+\contentsline {subsubsection}{\numberline {13.2.12}\texttt {Powerup} A}{12}
+\contentsline {section}{\numberline {14}Programdesign B}{12}
+\contentsline {subsection}{\numberline {14.1}Ramverk}{12}
+\contentsline {subsection}{\numberline {14.2}Centrala klasser B}{12}
+\contentsline {subsubsection}{\numberline {14.2.1}\texttt {Main} B}{12}
+\contentsline {subsubsection}{\numberline {14.2.2}\texttt {Scene} B}{12}
+\contentsline {subsubsection}{\numberline {14.2.3}\texttt {MainMenuScene implements Scene} B}{13}
+\contentsline {subsubsection}{\numberline {14.2.4}\texttt {ControllerSetupScene implements Scene} B}{13}
+\contentsline {subsubsection}{\numberline {14.2.5}\texttt {GameScene implements Scene} B}{13}
+\contentsline {subsubsection}{\numberline {14.2.6}\texttt {IngameMenuScene implements Scene} B}{13}
+\contentsline {subsubsection}{\numberline {14.2.7}\texttt {Controller} B}{13}
+\contentsline {subsubsection}{\numberline {14.2.8}\texttt {Physics} B}{14}
+\contentsline {subsubsection}{\numberline {14.2.9}\texttt {Brick} B}{14}
+\contentsline {subsubsection}{\numberline {14.2.10}\texttt {Paddle} B}{14}
+\contentsline {subsubsection}{\numberline {14.2.11}\texttt {Ball} B}{15}
+\contentsline {subsubsection}{\numberline {14.2.12}\texttt {Powerup} B}{15}
+\contentsline {section}{\numberline {15}Programdesign C}{15}
+\contentsline {section}{\numberline {16}Tekniska fr\IeC {\r a}gor A}{15}
+\contentsline {section}{\numberline {17}Tekniska fr\IeC {\r a}gor B}{16}
+\contentsline {section}{\numberline {18}Tekniska fr\IeC {\r a}gor C}{17}
+\contentsline {section}{\numberline {19}Arbetsplan A}{17}
+\contentsline {section}{\numberline {20}Arbetsplan B}{18}
+\contentsline {section}{\numberline {21}Arbetsplan C}{18}
+\contentsline {section}{\numberline {22}Sammanfattning}{19}
+\contentsline {subsection}{\numberline {22.1}Oimplementerade funktioner}{19}
+\contentsline {subsubsection}{\numberline {22.1.1}Po\IeC {\"a}ng- eller tidsgr\IeC {\"a}ns}{19}
+\contentsline {subsubsection}{\numberline {22.1.2}Mus som kontrollmetod}{19}
+\contentsline {subsubsection}{\numberline {22.1.3}Indikatorlampor f\IeC {\"o}r inmatning}{19}
+\contentsline {subsubsection}{\numberline {22.1.4}Power-up som s\IeC {\"a}nker bollens hastighet}{20}
+\contentsline {subsubsection}{\numberline {22.1.5}Saknade unit-tests}{20}
+\contentsline {subsection}{\numberline {22.2}Vidareutveckling av spelet}{20}
+\contentsline {subsection}{\numberline {22.3}Har vi l\IeC {\"a}rt oss n\IeC {\r a}got?}{20}
+\contentsline {subsubsection}{\numberline {22.3.1}Mikael Forsberg}{20}
+\contentsline {subsubsection}{\numberline {22.3.2}Robin Gunning}{21}
+\contentsline {subsubsection}{\numberline {22.3.3}Jonathan H\IeC {\r a}kansson}{21}

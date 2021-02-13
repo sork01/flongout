@@ -1,0 +1,41 @@
+Klass/Fil							Javadoc				Övriga kommentarer			JUnit         (Done* = behövs inte)
+-----------------------------------------------------------------------------------------------
+BackgroundAnimation.java			Done				Done						???
+Ball.java							Done				Done*						Done
+Brick.java							Done				Done*						Done
+BrickGrid.java						Done				Done						INCOMPLETE
+Controller.java						Done				Done*						INCOMPLETE
+ControllerSetupScene.java			Done				Done						NOT STARTED
+CoordinateTransformer.java			Done				Done*						INCOMPLETE
+Counter.java						Done				Done*						Done
+CPUInput.java						Done				Done						NOT STARTED
+GamepadInput.java					Done				Done						NOT STARTED
+GameScene.java						Done				Done						NOT STARTED
+InputMapper.java					Done				Done*						Done*
+KeyboardInput.java					Done				Done						Jonathan gör
+KeyboardMenuInput.java				Done				Done*						NOT STARTED
+Main.java							Done				Done						NOT STARTED
+MainMenuScene.java					Done				Done						NOT STARTED
+NullInput.java						Done				Done*						Done*
+Paddle.java							Done				Done						NOT STARTED
+Physics.java						Done				Done						NOT STARTED
+Powerup.java						Done				Done						NOT STARTED
+PowerupFactory.java					Done				Done*						Done
+Rect.java							Done				NOT STARTED					Done
+Scene.java							Done				Done*						Done*
+Stopwatch.java						Done				Done*						Done
+Vec2.java							Done				Done*						Done
+LargerBallPowerup.java				Done				Done						NOT STARTED
+PowerfulBallPowerup.java			Done				Done						NOT STARTED
+SmallerBallPowerup.java				Done				Done						NOT STARTED
+ZeroGravityPowerup.java				Done				Done						NOT STARTED
+OpponentSmallerPaddlePowerup.java	Done				Done						NOT STARTED
+SelfBiggerAreaPowerup.java			Done				Done						NOT STARTED
+SelfBiggerPaddlePowerup.java		Done				Done						NOT STARTED
+SelfSmallerPaddlePowerup.java		Done				Done						NOT STARTED
+
+Anteckningar:
+	
+	* Powerups är svåra att testa utan att ha en GameScene-mockup (låtsas-GameScene)
+	
+	
